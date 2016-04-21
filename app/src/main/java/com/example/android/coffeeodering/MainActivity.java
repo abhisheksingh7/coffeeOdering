@@ -1,4 +1,4 @@
-package com.example.android.coffee;
+package com.example.android.coffeeodering;
 
 import android.content.Intent;
 import android.net.Uri;
